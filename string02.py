@@ -10,4 +10,8 @@ def main(s, k, l, n):
     Returns:
         str: answer
     """
-    return
+    return s
+s="kamron bugun darsga kelmadi"
+
+print(s.replace ('k','l',2))
+print(s.replace('l','k',2))

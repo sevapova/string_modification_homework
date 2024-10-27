@@ -9,4 +9,8 @@ def main(s, k, l):
     Returns:
         str: answer
     """
-    return
+    return s
+s="kamalak chiqdi"
+
+print (s.replace('l','k'))
+print (s.replace('k','l'))

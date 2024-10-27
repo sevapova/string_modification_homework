@@ -8,4 +8,7 @@ def main(s, l):
     Returns:
         str: answer
     """
-    return
+    return s
+s="lllsalomlll"
+n=s.rstrip('l')
+print (n)

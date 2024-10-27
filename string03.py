@@ -8,4 +8,7 @@ def main(s, n):
     Returns:
         str: answer
     """
-    return
+    return s
+s="salom"
+n=s.center(7,'*')
+print(n)

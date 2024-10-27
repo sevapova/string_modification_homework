@@ -8,4 +8,7 @@ def main(s, n):
     Returns:
         str: answer
     """
-    return
+    return s
+s="sevara"
+n=s.ljust(7,"*")
+print (n)

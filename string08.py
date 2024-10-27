@@ -6,4 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    return s 
+s='sevara'
+x=s.index(len(s))
+print (x)
